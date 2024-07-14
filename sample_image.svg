@@ -1,0 +1,54 @@
+<svg width="800" height="600">
+   <g transform="translate(400,300)">
+      <circle r="300" stroke="black" fill="orange"></circle>
+      <text font-size="150%" style="text-anchor: end;"></text>
+   </g>
+   <g transform="translate(344.9695326344552,413.4684462865245)">
+      <circle r="79.84904356412362" stroke="black" fill="Khaki"></circle>
+      <text font-size="150%" style="text-anchor: middle;">B</text>
+   </g>
+   <g transform="translate(542.590396499311,413.4684462865245)">
+      <circle r="117.77182030073219" stroke="black" fill="Khaki"></circle>
+      <text font-size="150%" style="text-anchor: end;"></text>
+   </g>
+   <g transform="translate(412.94961583495905,537.7968616118749)">
+      <circle r="61.850803186888264" stroke="black" fill="Khaki"></circle>
+      <text font-size="150%" style="text-anchor: middle;">G</text>
+   </g>
+   <g transform="translate(392.39197345214836,169.20061272940453)">
+      <circle r="168.97953679552177" stroke="black" fill="Khaki"></circle>
+      <text font-size="150%" style="text-anchor: end;"></text>
+   </g>
+   <g transform="translate(480.19205729701645,388.33252268784906)">
+      <circle r="50.50096932972797" stroke="black" fill="Ivory"></circle>
+      <text font-size="150%" style="text-anchor: middle;">D</text>
+   </g>
+   <g transform="translate(592.5438298136327,388.33252268784906)">
+      <circle r="61.850803186888264" stroke="black" fill="Ivory"></circle>
+      <text font-size="150%" style="text-anchor: middle;">E</text>
+   </g>
+   <g transform="translate(525.5913927256577,478.5560892079453)">
+      <circle r="50.50096932972797" stroke="black" fill="Ivory"></circle>
+      <text font-size="150%" style="text-anchor: middle;">F</text>
+   </g>
+   <g transform="translate(341.49400299853465,85.96946137620367)">
+      <circle r="71.419155739089" stroke="black" fill="Ivory"></circle>
+      <text font-size="150%" style="text-anchor: middle;">I</text>
+   </g>
+   <g transform="translate(463.4141280673516,85.96946137620367)">
+      <circle r="50.50096932972797" stroke="black" fill="Ivory"></circle>
+      <text font-size="150%" style="text-anchor: middle;">J</text>
+   </g>
+   <g transform="translate(429.65187382633314,230.1300442924027)">
+      <circle r="97.56038105643276" stroke="black" fill="Ivory"></circle>
+      <text font-size="150%" style="text-anchor: end;"></text>
+   </g>
+   <g transform="translate(367.8010706394449,230.1300442924027)">
+      <circle r="35.7095778695445" stroke="black" fill="orange"></circle>
+      <text font-size="150%" style="text-anchor: middle;">L</text>
+   </g>
+   <g transform="translate(465.36145169587763,230.1300442924027)">
+      <circle r="61.850803186888264" stroke="black" fill="orange"></circle>
+      <text font-size="150%" style="text-anchor: middle;">M</text>
+   </g>
+</svg>
